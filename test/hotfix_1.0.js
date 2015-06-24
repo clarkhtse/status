@@ -6,6 +6,6 @@ defineClass('UDHtmlParser', {}, {
     if(containerNode){	    
     	return containerNode.firstNodeMatchingSelector('#content .jscroll-inner')
     }
-    retur containerNode
+    return containerNode
   }
 })
