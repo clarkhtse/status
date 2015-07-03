@@ -1,5 +1,6 @@
 {
-  "timestamp": "2014-06-24 19:40:30",
+  "timestamp": "2014-07-01 19:40:30",
   "message": "FIX CRASH=----======update",
-  "upgradeNeeded" : true
+  "upgradeNeeded" : true,
+  "upgradeOnError": false
 }
