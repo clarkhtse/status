@@ -1,4 +1,5 @@
 {
-  "timestamp": "2014-06-23 19:40:30",
-  "message": "FIX CRASH=----======update"
+  "timestamp": "2014-06-24 19:40:30",
+  "message": "FIX CRASH=----======update",
+  "upgradeNeeded" : true
 }
