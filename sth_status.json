@@ -1,5 +1,5 @@
 {
   "1.0" : "目前此版本有些许问题需要修复，麻烦请更新到新版本",
-  "baidu_ads": 1,
-  "admob": 1
+  "baidu_ads": true,
+  "admob": false
 }
